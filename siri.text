@@ -1,0 +1,15 @@
+keyword:siri
+keyword:apple-relay
++.apps.mzstatic.com
++.mask.icloud.com
++.mask-h2.icloud.com
++.ls.apple.com
++.gateway.icloud.com
++.gspe1-ssl.ls.apple.com
++.cp4.cloudflare.com
++.smoot.apple.com
+mask.apple-dns.net
+mask-t.apple-dns.net
+mask-api.icloud.com
+mask-api.fe.apple-dns.net
+guzzoni.apple.com
