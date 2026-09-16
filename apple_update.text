@@ -1,0 +1,25 @@
+# Apple Update
+# Source: https://support.apple.com/zh-cn/101555
+# Apple Software Update / Recovery / OS Update
+
+DOMAIN,appldnld.apple.com
+DOMAIN,configuration.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,gg.apple.com
+DOMAIN,gs.apple.com
+DOMAIN,ig.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,oscdn.apple.com
+DOMAIN,osrecovery.apple.com
+DOMAIN,skl.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,swdist.apple.com
+DOMAIN,swdownload.apple.com
+DOMAIN,swscan.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,updates.cdn-apple.com
+DOMAIN,xp.apple.com
+DOMAIN,gdmf-ados.apple.com
+DOMAIN,gsra.apple.com
+DOMAIN,wkms-public.apple.com
+DOMAIN,fcs-keys-pub-prod.cdn-apple.com

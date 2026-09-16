@@ -13,10 +13,29 @@ OpenAi 🤖
 ```text
 https://raw.githubusercontent.com/Baidaidai-GFWD-origin/RuleProviders/main/openai.text
 ```
+
 SiriAi 🥃
 
 ```text
 https://raw.githubusercontent.com/Baidaidai-GFWD-origin/RuleProviders/main/siri.text
+```
+
+Apple 🍎
+
+```text
+https://raw.githubusercontent.com/Baidaidai-GFWD-origin/RuleProviders/main/apple.text
+```
+
+Apple Apn 🍎
+
+```text
+https://raw.githubusercontent.com/Baidaidai-GFWD-origin/RuleProviders/main/apple_apn.text
+```
+
+Apple Update 🍎
+
+```text
+https://raw.githubusercontent.com/Baidaidai-GFWD-origin/RuleProviders/main/apple_update.text
 ```
 
 ## 说明
